@@ -23,3 +23,8 @@ Thoses little blockchain are really great for understanding how blockchains work
 I wanted to learn about blockchain, so I'd just combine those three programs into one, and added the possibility to asks user for transaction. <br><br>
 I've also add dynamics instance variable name with auto incrementation so people can implement it in bigger programs or rails application and create blocks with any kind of data (just replace prompt's methods).<br><br>
 Huge thanks to openblockchains, I've learned a lot by having fun with your Ruby scripts! ;-). 
+
+# Update
+You can delete one transaction per index of all transactions that have been saved, then a message will be displayed that the selected transaction has been successfully deleted, along with a list of the remaining transactions. 
+
+
